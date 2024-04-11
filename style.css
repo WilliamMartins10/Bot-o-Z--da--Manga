@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#playButton {
+    font-size: 16px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 2px solid black;
+    cursor: pointer;
+    background: red;
+    color: white;
+    font-weight: 800;
+}
+
+#playButton:houver {
+    height: 115px;
+    width: 115px;
+}
